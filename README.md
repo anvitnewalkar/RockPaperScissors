@@ -36,7 +36,7 @@ This project structure is as follows
 
 |   |------ Game logic
 
-|___ README.md
+|____ README.md
 
 1. The src directory contains the source code files:
    a.Main.java is the main entry point of the application.
