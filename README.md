@@ -31,8 +31,11 @@ https://github.com/anvitnewalkar/RockPaperScissors-Project/blob/main/RockPaperSc
 
 This project structure is as follows
 |----- src
+
 |   |------ RockPaperScissors.Java
+
 |   |------ Game logic
+
 |___ README.md
 
 1. The src directory contains the source code files:
