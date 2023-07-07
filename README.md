@@ -28,6 +28,7 @@ https://github.com/anvitnewalkar/RockPaperScissors-Project/blob/main/RockPaperSc
 7. Play again if desired.
 
 **Project Structure**
+
 This project structure is as follows
 |----- src
 |   |------ RockPaperScissors.Java
@@ -40,6 +41,7 @@ This project structure is as follows
 2. The README.md file contains information about the project and how to get started.
 
 **Contribution**
+
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
@@ -49,9 +51,11 @@ Contributions to this project are welcome. If you would like to contribute, plea
 5. Submit a pull request, explaining your changes and why they should be merged.
 
 **Acknowledgement**
+
 This project is a simple implementation of the Rock Paper Scissors game and was created for educational purposes. It serves as a fun way to learn and practice Java programming concepts.
 
 **Contact**
+
 If you have any questions, suggestions, or feedback, please feel free to contact me at anvitnwlkrp1@gmail.com.
 
 Thank you for checking out this Rock Paper Scissors Java project! Have fun playing the game!
